@@ -293,7 +293,6 @@ Documents intent clearly
 Best practice in C++]
 
 
-
 ## 4. Challenges, Solutions, and Error Report
 ### Technical Challenges
 [- Challenge 1: Type Mismatch in Entry Class
@@ -671,4 +670,5 @@ Programming requires meticulous attention to detail. Understanding error message
 You can discuss linked lists, iterators, and Big O analysis with confidence in interviews. You understand memory management and const correctness for production code. 
 You can choose data structures based on performance for system design. You can recognize common pitfalls in code review.This project met all learning objectives. It provided a comprehensive learning experience. 
 The challenges faced prepared you for the realities of professional software engineering. The knowledge gained forms a foundation for future building.
+
 -------------------------------------------------------------------------------
