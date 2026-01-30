@@ -29,9 +29,9 @@ Application layer (EnglishDictionary) - Domain - specific interface
 Test driver (main.cpp) - Demonstration of functionality
 
 ## 2. Tools and Technologies Used
-[List the tools, technologies, or platforms you used to implement the assignment. 
+List the tools, technologies, or platforms you used to implement the assignment. 
 This could include programming languages, development environments, operating 
-systems, AI tools, or libraries.]
+systems, AI tools, or libraries.
 
 - Tool 1:  C++
 - Tool 2: git
@@ -178,8 +178,6 @@ Space Complexity: O(n) due to call stack
 --------------------------------------------------------------------------------
 
 ### Design Choices
-[Design Choices
-
 
 1. Doubly Linked List vs Array
 Choice: Doubly linked list with sentinel nodes
@@ -290,7 +288,7 @@ Reasoning:
 Prevents accidental modifications
 Enables compiler optimizations
 Documents intent clearly
-Best practice in C++]
+Best practice in C++.
 
 
 ## 4. Challenges, Solutions, and Error Report
@@ -395,8 +393,8 @@ Lesson: Static members of template classes need template prefix and must be defi
 ### Error Report
 [- Common Errors Encountered:
   - Error 1: Compilation Error - Type Declaration
-  [Entry.h:40: error: 'K_key' does not name a type
-   Entry.h:41: error: 'K_value' does not name a type]
+  Entry.h:40: error: 'K_key' does not name a type
+   Entry.h:41: error: 'K_value' does not name a type
    
     - Cause: Typo in variable declarations - missing space between type and name
     {K_key;   // WRONG
@@ -445,7 +443,6 @@ Impact: Minor compilation error, easily fixed.]
 
 ## 5. Testing Strategy
 ### Verification Methods
-[
 1. Structured Test Sequence
 Implemented comprehensive test suite in main.cpp following project specs:
 Initial Setup:
@@ -488,8 +485,6 @@ Verified:
 Count drops from 10 to 9
 Unique keys remain 4
 Only 2 "set" definitions remain
-
-
 
 
 Search Test
@@ -635,7 +630,7 @@ set -> ready or prepared
 
 Total words: 9 (should be 9)
 Unique words: 4 (should be 4)
-Verification: Manual inspection confirms expected vs actual match]
+Verification: Manual inspection confirms expected vs actual match.
 
 ## 6. Conclusion
 This project combined theoretical computer science with practical software engineering. 
